@@ -1,1 +1,1 @@
-# Laboratorio Windows 10
+# Laboratorio Windows 10 (repositorio)
